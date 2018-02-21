@@ -1,0 +1,16 @@
+li#shops span.key {
+ display: none;
+}
+[contenteditable="true"] {
+ padding: 0.2em;
+ outline: 2px dashed #CCC;
+}
+[contenteditable="true"]:hover {
+ outline: 2px dashed #0090D2;
+}
+li {
+ line-height: 200%;
+}
+input#lat{
+display: none;
+}
